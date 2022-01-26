@@ -1,0 +1,18 @@
+
+.innstillingRad a{
+   font-size:20px;
+   color:rgb(146, 143, 143);
+}
+.innstillingRad .nav-item .nav-link:link:hover {
+    font-weight: bold;
+    color:white;
+}
+.innstillingRad .nav-item .nav-link:link:focus,
+.innstillingRad .nav-item .nav-link:link:active {
+    font-weight: bold;
+    background-color:rgb(85, 84, 84);
+    color:white;
+}
+
+
+
