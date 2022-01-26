@@ -1,3 +1,0 @@
-MovieSelector/**/* filter=lfs diff=lfs merge=lfs -text
-App[[:space:]]folder filter=lfs diff=lfs merge=lfs -text
-App2000/**/* filter=lfs diff=lfs merge=lfs -text
